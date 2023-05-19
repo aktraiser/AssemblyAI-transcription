@@ -8,7 +8,7 @@ file_buffer = st.file_uploader("Télécharger le fichier audio")  # Creating a f
 language = st.text_input('Entrer le code de langue:')  # Creating a text input widget for language code.
 
 upload_endpoint = "https://api.assemblyai.com/v2/upload"  # The endpoint for uploading the file.
-headers = {'authorization':'YOUR API ASSEMBLY'}  # The headers for the request.
+headers = {'authorization':'YOUR ID ASSEMBLYAI'}  # The headers for the request.
 
 # This function reads the content of the uploaded file.
 def read_file(file_buffer):
