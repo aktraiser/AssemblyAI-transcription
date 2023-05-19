@@ -25,7 +25,7 @@ You will be able to upload your audio file and enter the language code. Then cli
 
 Note: You need to replace the `'YOUR ID ASSEMBLYAI'` in the headers with your own AssemblyAI API key.
 
-[![Watch the video](https://img.youtube.com/vi/Hk4_Hks4xmI/maxresdefault.jpg)](https://youtu.be/Hk4_Hks4xmI)
+[![Watch the video](https://img.youtube.com/vi/eZ43ATQus1g/maxresdefault.jpg)](https://youtu.be/eZ43ATQus1g)
 
 Click the image above to watch a video tutorial on how to use this app.
 
