@@ -16,7 +16,7 @@ pip install -r requirements.txt
 3. Run the app with Streamlit. In your terminal, navigate to the directory containing the app file (`main.py`) and run:
 
 ```
-streamlit run app.py
+streamlit run main.py
 
 ```
 4. Open the app in your web browser. Streamlit will provide a local URL that you can use (usually `http://localhost:8501`).
